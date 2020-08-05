@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 ,湖南卫视HD
+http://live2t.icntv.xyz/kankan/hnwshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,湖南卫视HD
+http://live2t.icntv.xyz/bingbu/hunanhd.m3u8?cdn=3&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,深圳卫视HD
+http://live2t.icntv.xyz/kankan/szwshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,深圳卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/shenzhen_2/index.m3u8
+#EXTINF:-1 ,浙江卫视HD
+http://live2t.icntv.xyz/kankan/zjwshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,江苏卫视HD
+http://live2t.icntv.xyz/kankan/jswshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,北京卫视HD
+http://live2t.icntv.xyz/kankan/bjwshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,北京卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/btv1_2/index.m3u8
+#EXTINF:-1 ,广东卫视HD
+http://live2t.icntv.xyz/kankan/gdwshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,广东卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/guangdong_2/index.m3u8
+#EXTINF:-1 ,安徽卫视HD
+http://live2t.icntv.xyz/kankan/ahwshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,安徽卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/anhui_2/index.m3u8
+#EXTINF:-1 ,山东卫视HD
+http://live2t.icntv.xyz/kankan/sdwshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,山东卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/shandong_2/index.m3u8
+#EXTINF:-1 ,天津卫视HD
+http://live2t.icntv.xyz/kankan/tjwshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,湖北卫视HD
+http://live2t.icntv.xyz/kankan/hbwshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,湖北卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/hubei_2/index.m3u8
+#EXTINF:-1 ,黑龙江卫视HD
+http://live2t.icntv.xyz/kankan/hljwshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,黑龙江卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/heilongjiang_2/index.m3u8
+#EXTINF:-1 ,辽宁卫视HD
+http://live2t.icntv.xyz/kankan/lnwshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,四川卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/sichuan_2/index.m3u8
+#EXTINF:-1 ,重庆卫视HD
+http://live2t.icntv.xyz/tkmax/chongqinghd.m3u8?cdn=1&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,重庆卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/chongqing_2/index.m3u8
+#EXTINF:-1 ,天津卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/tianjin_2/index.m3u8
+#EXTINF:-1 ,东南卫视HD
+http://live2t.icntv.xyz/kankan/dnwshd.m3u8?cdn=1&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,东南卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/dongnan_2/index.m3u8
+#EXTINF:-1 ,贵州卫视HD
+http://live2t.icntv.xyz/tkmax/guizhouhd.m3u8?cdn=2&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,贵州卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/guizhou_2/index.m3u8
+#EXTINF:-1 ,河北卫视HD
+http://live2t.icntv.xyz/tkmax/hebeihd.m3u8?cdn=2&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,河北卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/hebei_2/index.m3u8
+#EXTINF:-1 ,江西卫视HD
+http://live2t.icntv.xyz/kankan/jxwshd.m3u8?cdn=2&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,江西卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/jiangxi_2/index.m3u8
+#EXTINF:-1 ,河南卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8
+#EXTINF:-1 ,河南卫视HD
+http://live2t.icntv.xyz/tkmax/henanhd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,吉林卫视HD
+http://live2t.icntv.xyz/tkmax/jilinhd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,吉林卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/jilin_2/index.m3u8
+#EXTINF:-1 ,广西卫视SD1
+http://live2t.icntv.xyz/bingbu/guangxi.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,广西卫视SD2
+http://cctvalih5ca.v.myalicdn.com/wstv/guangxi_2/index.m3u8
+#EXTINF:-1 ,海南卫视HD
+http://live2t.icntv.xyz/tkmax/hainanhd.m3u8?cdn=2&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,海南卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/travel_2/index.m3u8
+#EXTINF:-1 ,山东教育SD
+http://cctvalih5ca.v.myalicdn.com/cstv/sdetv_2/index.m3u8
+#EXTINF:-1 ,甘肃卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/gansu_2/index.m3u8
+#EXTINF:-1 ,南方卫视SD
+http://live2t.icntv.xyz/grtn/tvs2.m3u8?cdn=2&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,内蒙古卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/neimenggu_2/index.m3u8
+#EXTINF:-1 ,宁夏卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8
+#EXTINF:-1 ,青海卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/qinghai_2/index.m3u8
+#EXTINF:-1 ,山西卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/shan1xi_2/index.m3u8
+#EXTINF:-1 ,陕西卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/shan3xi_2/index.m3u8
+#EXTINF:-1 ,新疆卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/xinjiang_2/index.m3u8
+#EXTINF:-1 ,西藏卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/xizang_2/index.m3u8
+#EXTINF:-1 ,云南卫视SD
+http://cctvalih5ca.v.myalicdn.com/wstv/yunnan_2/index.m3u8
+#EXTINF:-1 ,CCTV-5体育SD
+http://live2t.icntv.xyz/kankan/cctv5sd.m3u8?cdn=3&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,CCTV-5体育SD
+http://live2t.icntv.xyz/mufu/cctv5sd.m3u8?cdn=3&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,CCTV5+体育赛事SD
+http://live2t.icntv.xyz/mufu/cctv5asd.m3u8?cdn=3&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,CCTV5+体育赛事SD
+http://live2t.icntv.xyz/kankan/cctv5psd.m3u8?cdn=3&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,CCTV-3综艺HD
+http://live2t.icntv.xyz/ystb/cctv3hd.m3u8?cdn=3&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,CCTV-3综艺SD
+http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 ,CCTV-6电影HD
+http://live2t.icntv.xyz/ystb/cctv6hd.m3u8?cdn=3&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,CCTV-6电影SD
+http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 ,CCTV-8电视剧HD
+http://live2t.icntv.xyz/kankan/cctv8hd.m3u8?cdn=3&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,CCTV-8电视剧SD
+http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 ,CCTV-13新闻SD
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 ,CCTV-14少儿HD
+http://live2t.icntv.xyz/ystb/cctv14hd.m3u8?cdn=3&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,CCTV-14少儿SD
+http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+#EXTINF:-1 ,CCTV-15音乐HD
+http://live2t.icntv.xyz/ystb/cctv15hd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,CCTV-15音乐SD
+http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
+#EXTINF:-1 ,高尔夫网球SD
+http://live2t.icntv.xyz/bingbu/golftennis.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,世界地理HD
+http://live2t.icntv.xyz/ystb/shijiedili.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
+#EXTINF:-1 ,PG体育-1
+http://live2t.icntv.xyz/nanjingsd/PG1.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
