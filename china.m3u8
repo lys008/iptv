@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,湖南卫视HD
 http://live2t.icntv.xyz/kankan/hnwshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
-#EXTINF:-1 ,湖南卫视HD
+#EXTINF:-1 ,湖南卫视HD2
 http://live2t.icntv.xyz/bingbu/hunanhd.m3u8?cdn=3&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
 #EXTINF:-1 ,深圳卫视HD
 http://live2t.icntv.xyz/kankan/szwshd.m3u8?cdn=4&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
@@ -103,7 +103,7 @@ http://cctvalih5ca.v.myalicdn.com/wstv/xizang_2/index.m3u8
 http://cctvalih5ca.v.myalicdn.com/wstv/yunnan_2/index.m3u8
 #EXTINF:-1 ,CCTV-5体育SD
 http://live2t.icntv.xyz/kankan/cctv5sd.m3u8?cdn=3&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
-#EXTINF:-1 ,CCTV-5体育SD
+#EXTINF:-1 ,CCTV-5体育SD2
 http://live2t.icntv.xyz/mufu/cctv5sd.m3u8?cdn=3&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
 #EXTINF:-1 ,CCTV5+体育赛事SD
 http://live2t.icntv.xyz/mufu/cctv5asd.m3u8?cdn=3&str=bHlzMDA4QHlhaG9vLmNvbSwxNTk2NjQ0MzE5&key=b2ceb6f8d08ca9afa183558fb05cf422
