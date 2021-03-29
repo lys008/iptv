@@ -73,6 +73,10 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225513/index.m3u8?
 http://111.12.102.68:6610/PLTV/77777777/224/3221225833/index.m3u8?
 #EXTINF:-1 group-title="CCTV",CCTV-17蓝光3
 http://111.12.102.68:6610/PLTV/77777777/224/3221225766/index.m3u8?
+#EXTINF:-1 group-title="中国卫视台",四川卫视1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="中国卫视台",四川卫视2
+http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cNF/ysten-businessmbble/live/sichuanstv/1.m3u8?IASHttpSessionId\u003d0
 #EXTINF:-1 group-title="中国卫视台",北京卫视蓝光2
 http://111.12.102.68:6610/PLTV/77777777/224/3221225664/index.m3u8?
 #EXTINF:-1 group-title="中国卫视台",北京卫视蓝光3
