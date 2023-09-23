@@ -101,7 +101,7 @@
 {"key":"找资源","name": "🖥找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "null$$$yunshuche$$$11223344","jar":"./ali.jar"},
 {"key":"网盘搜索","name": "🖥网盘搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 1,"changeable": 0,"jar":"./ali.jar"},
 //{"key":"土狗","name":"🖥土狗搜索","type":3,"api":"csp_TuGou","searchable":1,"changeable":0,"jar":"./ali.jar"},
-{
+//{
         "key": "maolv_open",
         "name": "🐴倒骑毛驴",
         "type": 3,
