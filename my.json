@@ -26,7 +26,7 @@
 		"api": "csp_Maolv",
 		"searchable": 1,"quickSearch": 1,
 		"filterable": 0,
-		"jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+		"jar":"https://github.com/lys008/iptv/raw/master/OpenSpider.jar"
 	},
 	{
             "key" : "shuying",
