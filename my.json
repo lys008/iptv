@@ -31,15 +31,16 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
 	  {
-      "key": "AppMr",
-      "name": "👻明明┃App",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-	   {
+            "key": "追忆",
+            "name": "🍫追忆App",
+            "type": 3,
+            "api": "csp_Appto",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
+        },
+	  {
       "key": "Mino",
       "name": "👻Mino┃App",
       "type": 3,
@@ -48,15 +49,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
-    },
-	{
-            "key" : "shuying",
-            "name" : "🔀急速观影",
-            "type" : 3,
-            "api" : "csp_XBPQ",
-		"searchable": 1,"quickSearch": 1,
-            "ext" : "https://notabug.org/ygfxz/6/raw/main/XBPQ/suying.json"
-        }
+    }
   ],
   "parses": [
     {
