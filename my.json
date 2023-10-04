@@ -11,15 +11,15 @@
       "quickSearch": 1,
       "changeable": 1
     },
-	  {
-      "key": "毛驴",
-      "name": "🍓毛驴┃App",
-      "type": 3,
-      "api": "csp_Maolv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+	   {"key": "maolv_open",
+		"name": "🐴倒骑毛驴",
+		"type": 3,
+		"api": "csp_Maolv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"jar":"https://github.com/lys008/iptv/raw/master/OpenSpider.jar"
+	},
 	  {
       "key": "csp_WoGG",
       "name": "👽玩偶哥哥┃4K",
