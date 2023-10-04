@@ -11,14 +11,13 @@
       "quickSearch": 1,
       "changeable": 1
     },
+	  
 	  {"key": "maolv_open",
 		"name": "🐴倒骑毛驴",
 		"type": 3,
 		"api": "csp_Maolv",
 		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"jar":"https://github.com/lys008/iptv/raw/master/OpenSpider.jar"
+		"quickSearch": 1
 	},
 	  {
       "key": "csp_WoGG",
@@ -39,16 +38,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
-    },
-	  {
-      "key": "Bdys_spider",
-      "name": "哔滴影视",
-      "api": "csp_Bdys01",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
+    }
+	 
     }
   ],
   "parses": [
