@@ -20,6 +20,16 @@
 		"filterable": 1,
 		"jar":"https://github.com/lys008/iptv/raw/master/OpenSpider.jar"
 	},
+	   {
+      "key": "Cokemv",
+      "name": "📕可乐┃直连",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 	  {
       "key": "csp_WoGG",
       "name": "👽玩偶哥哥┃4K",
