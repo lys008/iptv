@@ -1,5 +1,5 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;64fa98fbba7758f483e6e82dea311f77",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     	{
@@ -13,13 +13,14 @@
     },
 	  {
       "key": "毛驴",
-      "name": "🍓毛驴┃App",
+      "name": "🍓毛驴┃直连",
       "type": 3,
-      "api": "csp_Maolv",
+      "api": "csp_MLYS",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
-    },
+      "changeable": 1,
+      "ext": "https://www.maolvys.com/"
+	  },
 	  {
       "key": "csp_WoGG",
       "name": "👽玩偶哥哥┃4K",
