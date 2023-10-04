@@ -30,16 +30,7 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
-	  {
-            "key": "追忆",
-            "name": "🍫追忆App",
-            "type": 3,
-            "api": "csp_Appto",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
-        },
+	  {"key":"csp_Bd","name":"🚕哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 	  {
       "key": "Mino",
       "name": "👻Mino┃App",
