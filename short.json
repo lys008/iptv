@@ -23,7 +23,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-	    "ext": ""
     },
 	  {"key": "maolv_open",
 		"name": "🐴倒骑毛驴",
@@ -52,7 +51,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": ""
+      "jar": "http://cdn.qiaoji8.com/fix09292.jar"
     },
 	  {
       "key": "Mino",
@@ -74,7 +73,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-		   "ext": ""
 	  
     }
   ],
