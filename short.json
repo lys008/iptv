@@ -1,8 +1,7 @@
 {
   "spider": "http://cdn.qiaoji8.com/fix09292.jar;md5;d2dc99c413e74bb24c862c1021d1f7eb",
-	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;533f279c487b5bd34cf4947a7afbee34",
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "lives": [
+	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+	"lives": [
     {
       "group": "redirect",
       "channels": [
