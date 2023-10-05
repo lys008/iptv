@@ -1,5 +1,4 @@
 {
-	"spider": "http://cdn.qiaoji8.com/fix09292.jar;md5;d2dc99c413e74bb24c862c1021d1f7eb",
 	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
 	"lives": [
     {
@@ -22,7 +21,7 @@
       "api": "csp_Tangrenjie",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 1
     },
 	  {"key": "maolv_open",
 		"name": "🐴倒骑毛驴",
@@ -62,8 +61,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
-	  
-    },
+	   },
 	   {
       "key": "Cokemv",
       "name": "📕可乐┃直连",
@@ -72,9 +70,8 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-	  
-    }
+      "changeable": 1
+	   }
   ],
   "parses": [
     {
