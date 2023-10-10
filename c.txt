@@ -1,5 +1,5 @@
 {
-"spider":"http://tvmvip110.live/down.php/7dce83663b899ef6df33fef9bbe241f8.jar",
+"spider":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;badfd75846df45e8cf06b53654312ccf",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0"
 ]}]}],
