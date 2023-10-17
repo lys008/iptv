@@ -23,9 +23,9 @@
       "quickSearch": 1,
       "changeable": 1
     },
-	  {"key":"南瓜影视","name":"南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cdn.qiaoji8.com/fix1013.jar"},
-	  {"key":"Lezhu_spider","name":"乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"http://cdn.qiaoji8.com/fix1013.jar"},
-	  {"key":"时常影视","name":"时常影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cdn.qiaoji8.com/fix1013.jar"},
+	  {"key":"南瓜影视","name":"南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://cdn.qiaoji8.com/fix1013.jar"},
+	  {"key":"Lezhu_spider","name":"乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":"http://cdn.qiaoji8.com/fix1013.jar"},
+	  {"key":"时常影视","name":"时常影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://cdn.qiaoji8.com/fix1013.jar"},
 	  {"key": "maolv_open",
 		"name": "🐴倒骑毛驴",
 		"type": 3,
@@ -55,7 +55,6 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
-	  {"key":"Bdys_spider","name":"哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 	  {
       "key": "Bdys_spider",
       "name": "🚕哔滴影视",
@@ -64,7 +63,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "http://cdn.qiaoji8.com/fix1013.jar"
+      "jar": "http://cdn.qiaoji8.com/fix1013.jar"
     }, 
 	  {
 		  "key": "Mino",
