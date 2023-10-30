@@ -1,4 +1,21 @@
 {
+// 每日一言 (随机显示欢迎语)
+"dairyWords": [{
+    "name": "rating",
+    "request": {
+     "method": "GET",
+     "url": {
+      "raw": "https://v.api.aa1.cn/api/yiyan/index.php?type=get"
+     }
+    },
+    "response": {
+        "result": "$.data.content"
+    },
+    "expires" : "43200"
+}],
+
+
+
 // 首页推荐视频 (豆瓣)
 "recommend": [{
  "name": "豆瓣推荐",
@@ -56,27 +73,34 @@
    
 //数据接口
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
-"sites": [
+"sites":[
+{"key":"玉米","name":"💖分享玉米","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {
-      "key": "csp_trj",
-      "name": "🛫唐人街┃飞",
+      "key": "csp_WoGG",
+      "name": "👽玩偶哥哥┃4K",
       "type": 3,
-      "api": "csp_Tangrenjie",
+      "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-	"jar":"https://github.com/lys008/iptv/raw/master/fan.txt"
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
-	  {
-		  "key":"南瓜影视",
-		  "name":"南瓜影视",
-		  "type":3,
-		  "api":"csp_NanGua","searchable":1,
-		  "quickSearch":1,
-		  "filterable":0,
-		  "jar":"https://github.com/lys008/iptv/raw/master/fix1013.jar"
-	  },
-	  {
+{"key":"mino4K","name":"🍭mino4K","type":3,"api":"csp_AppMao","ext":"FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"},
+{
+            "key": "毛驴",
+            "name": "🐴倒骑毛驴",
+            "type": 3,
+            "api": "csp_Maolv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.maolvys.com/","jar":"https://jihulab.com/0004/0/-/raw/main/app.jar"
+        },
+      
+      {"key":"追忆影视","name":"🐠追忆影视","type":3,"api":"csp_Appto","playerType":2,"ext":"kVuIt2RRCkF2aaUQ/tRDng0xixNwS1YzLTR2ZWIRoeZuBR6foSvKpFzROP6SYD+xee2Pid+GdwE4YIdXdWdTZm6byVUDz6NsLe8bZgbM4Jh28u/cmuhteoyxaNXdZ8IDERVMLBvOVgJStN8HNapFs+whGI/ls/gGyIu/MwJ8eDo0sRFqx68+aYWOn3/vB4No7D59GKHmxMY0zMdk7l4vuJa1uKEPkN9aVb5yvrtK4otsS2YcrK8k3yQ5jcvEgXvx0IbMjieKzvEj8bMtkebPDqR0IgzqolJCgA+ZkhNnPKvYizqsNGxzvTRL/w2LyL1/E6xGVk+eiayVZImjLyqqMJ2HQ7jNFmcQ7bnsOOofrAFVzmLls1TRZuhBiZqX/GpljYXji1i4CgimE8dQdb/Bm1hBJZ+EPJwPFVELFlVYrx3+7tSg/n0yUB2dstDJIZAX0otUgX8joU3D9fPlpRX514tNEhPRa3ocoruEU81osVNiQ7/pEXP+Cxn40UNLudttKj1YSPESGtewQYnsbygGBFY8ddkOhhqHmcWC3IxgljigEgQO3bAvH2qLQs5rXLm3s2RtIqSipdG9OlGf4q35swc/wfiTLHDUJIO5zIFxfqQmRXbHiWqkz5yL2x6z0EKT04YMo+tnPrHxmrp9yeYDZSy39j5/D3Xt3gQTXoPyv9OiBEI/kxcUbPDIoaiw6iZTUiUCDuHRm31d/H7LOpQcAndUy2XbV8Sa+q/lO++HspjWgLwp5T/uxfvPLuctmkdYq6zdybwHNpNWy5KUOyra81dO0QfuHu6+2keXtQZzE8JiahHVFou+BxTa79MXg3EEUjPmmlVS6FFK12uSutZiJkPWxBuvBCmpBzn0Rq0IsDFkCvgQpqnxDi6NayNATUPu8J/HAiIs04d+xDjFwkBKvXeO5Hdvs4zmURqND/gtEYm47rlqjLQ5fFQqgL0qK3zPZzQSJ/Vya9gaTesDImNPqYwOrzx6RGRBHnqiXSxJB7+XHvZ5sZJ8uIcV7V+pQv3Dx","jar":"https://jihulab.com/0004/0/-/raw/main/6.txt"},
+
+{"key":"南瓜影视","name":"🎃南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://jihulab.com/0004/0/-/raw/main/6.txt"},
+{
 		  "key":"Lezhu_spider",
 		  "name":"乐猪影视",
 		  "api":"csp_Lezhu",
@@ -87,47 +111,20 @@
 		  "searchable":1,
 		  "jar":"https://github.com/lys008/iptv/raw/master/fix1013.jar"
 	  },
-	  {
-		  "key":"时常影视",
-		  "name":"时常影视",
-		  "type":3,
-		  "api":"csp_SC1080",
-		  "searchable":1,
-		  "quickSearch":1,
-		  "filterable":0,
-		  "jar":"https://github.com/lys008/iptv/raw/master/fix1013.jar"
-	  },
-	   {
-            "key": "毛驴",
-            "name": "🐴倒骑毛驴",
-            "type": 3,
-            "api": "csp_Maolv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/","jar":"https://github.com/lys008/iptv/raw/master/app.jar"
-        },
-	  {
-    "key": "jojo_open",
-    "name": "🧮分享jojo",
-    "type": 3,
-    "api": "csp_JoJo",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "jar": "https://github.com/lys008/iptv/raw/master/app.jar"
-},
-	  {
-      "key": "csp_WoGG",
-      "name": "👽玩偶哥哥┃4K",
+{
+      "key": "jojo弹幕直连",
+      "name": "🧮分享jojo",
       "type": 3,
-      "api": "csp_WoGG",
+      "jar": "http://111.67.195.139/yydf/lib/danmu.jar",
+      "api": "csp_Jiohub",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      }
     },
-	  {
+ {
       "key": "Bdys_spider",
       "name": "🚕哔滴影视",
       "api": "csp_Bdys01",
@@ -137,35 +134,9 @@
       "searchable": 1,
       "jar": "https://github.com/lys008/iptv/raw/master/fix1013.jar"
     }, 
-	  {
-		  "key": "Mino",
-		  "name": "👻Mino┃App",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
-    },
-	  {"key":"追忆影视",
-		  "name":"🐠追忆影视",
-		  "type":3,"api":"csp_Appto",
-		  "playerType":2,
-		  "ext":"SgfqwZ7mXT9kHnNF5fEfBFRfJVGiy4+WwnapqG/NY3BxdbcjxuSmnXN/KMdKfEmAbW86nRfRRsx8wG3JuaVRwKtFGrTNs9GKFMjzDysgVx+vXROKpT7GgFNl6mjK8KYx2Cd9N8wv9vOboEhX87E2+ckvZL2uDPkYk9cW+IePzeeW7N1VrtZGAJ5s8cnPumrviNowWKczX9/9g3IUgNAchFGWS8MIHy2LHJ/Jj1upM3boVaFchNX3fkkXpdfPjIHoRSgjQ3AkFnS7tcqEno/ZHQexTvGGwDN760tqsJnQiOJgr6wl3DaOAZpfS75U+i5cpvHkX9cYjCMp7Q33fl5FhFiMZruipNxP3ujfF1Y2sKhANvz+fycqBzvJr5ogkLc1sPDw+St4uFsGkDnmAraX0zPzwwggknimRXeudT7TZz1fk8Pfuh1acXEju5g8H6XPzbsi8KcJskusAiIoPiu86apOh6wNcWuD13IDIfs0RXSn+AkD6ELJFa+hPa1UZ8BddfI0Cd+LV15gKaZg0eiKs9n4t8rasm6x4KpP/XBwYR/kzMIS6aYri42R37koBsuHChJkOdsaRjS0+xUNTuIN8aM9QOWBK4fmoU1f4qYW3Nf/sdICVIh0FflXgHO0NgfE9tenAPWDCtxZia8eo3C4JcR43a7wRgJf3HyA6zcIh7eOs74eDoak9b1wU82+EHNhec3XrkfzSoSpqUzqz2NMtPYe8RU+lRXAiS6xGU8Uq7fYBzLiw/LfCnfoMXPbsQuwGCCy5348lrN3MqK1v/WMxHY2/7iGEDgHZAs/YJ+0Visz0mULi4bau8BJ9z/VYTZ9O67XWYSpZTvMA55rIDee9OwMGqqgRFVYE4xiiSj8JYVHT0WwxSYkcZes5qBL3h6hcCWUZoUXoY3rvNkdweATQ/nvnD5+Z6hvX6eNP4yUJWvB4CwqCI5htdXwTFQH6sdJWOLVK+oQiicDS8Non9FbFfgI6dGG+W5p5reMIfFExV+MdpOs5QWqVaw8tMPEMqKnG",
-		  "jar":"https://jihulab.com/0004/0/-/raw/main/6.txt"
-	  },
-	   {
-      "key": "Cokemv",
-      "name": "📕可乐┃直连",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-	"jar":"https://github.com/lys008/iptv/raw/master/fan.txt"
-	   }
-	],
+ {"key":"Cokemv","name":"🥤可口可乐","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.org/xgapp.php/v3/"
+ }
+],
 
 //解析接口
 
@@ -174,6 +145,23 @@
 {"name":"超级解析","type":3,"url":"Demo"},
 {"name":"超级嗅探","type":3,"url":"Web"},	
 {"name":"推荐💕","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+
+{"name":"💕分享全能","type":1,"url":"https://www.qiaoji8.com/tvbox/json.php?url="},
+
+{"name":"绿豆解析","type":1,"url":"http://pandown.pro/app/lvdou.php?url="},
+
+           {"name": "分享官解",
+			"type": 1,
+			"url": "http://jx.lem.icu/api/?key=027181cefdc41cfdd2efa074f2fcf722&url="},
+			{
+			"name": "分享遇见1",
+			"type": 1,
+			"url": "http://jx.lem.icu/api/?key=027181cefdc41cfdd2efa074f2fcf722&url="
+		},
+			{
+      "name": "分享遇见",
+      "type": 1,
+      "url": "https://jxjson.cf/json.php?url="},
 
 {"name":"🌟推荐0","type":1,"url":"https://vip.daina.hk/fyzy/json.php?&url="},
 {
@@ -191,21 +179,16 @@
            "type": 1,
            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
        },
-       {
-           "name": "分享叉车",
-           "type": 1,
-           "url": "http://cache.json.icu/1804857380.php?url="
-       },
-       {
-           "name": "分享影领",
-           "type": 1,
-           "url": "http://json.itcxo.cn/api/?key=yOf0ntpu00xdbjnFjo&url="
-       },
+      
        {
            "name": "分享蓝鹰",
            "type": 1,
            "url": "http://42.157.128.109:2323/CH/app/tv.php?url="
        },
+       {"name":"分享自建","type":1,"url":"http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=afghlpwxAEGLX01235&url="},
+        {"name": "分享智能", "type": 1, "url": "https://api.8l2.cn/api/?key=5c9905a3dc0bef77647d1bb4a1d319ad&url="},
+ 
+ {"name": "分享255", "type": 1, "url": "http://rgb0315.goip.de:2223/tv.php?url="},
 {
 			"name": "分享往往",
 			"type": 1,
@@ -383,7 +366,7 @@
 
 //jar+壁纸
 
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
+"spider":"https://download.kstore.space/download/4127/0.txt","wallpaper":"https://tool.weetai.cn/api", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
 
 //电视直播
 
@@ -415,4 +398,5 @@
 "xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com",
 "s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
 "z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
+        
         
