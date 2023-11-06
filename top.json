@@ -76,15 +76,16 @@
 "sites":[
 {"key":"玉米","name":"💖分享玉米","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {
-      "key": "csp_WoGG",
-      "name": "👽玩偶哥哥┃4K",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
+"key": "csp_玩偶哥哥",
+"name":"📕玩偶哥哥",
+"type":3,
+"api":"csp_WoGG",
+"playerType":1,
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"jar":"https://download.kstore.space/download/4127/ali/阿里设置.jar",
+"ext":"https://jihulab.com/0004/0/-/raw/main/tk.php$$$http://www.wogg.xyz/"},
 {"key":"mino4K","name":"🍭mino4K","type":3,"api":"csp_AppMao","ext":"FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"},
 {
             "key": "毛驴",
